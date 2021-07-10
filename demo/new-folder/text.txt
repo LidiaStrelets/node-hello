@@ -1,0 +1,3 @@
+this is new file content
+
+this is appended content

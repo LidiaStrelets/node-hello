@@ -1,0 +1,29 @@
+{
+  "name": "node-practice",
+  "version": "1.0.0",
+  "description": "introduction to node.js",
+  "main": "index.js",
+  "scripts": {
+    "starn": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LidiaStrelets/node-hello.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Lidiia Strelets",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LidiaStrelets/node-hello/issues"
+  },
+  "homepage": "https://github.com/LidiaStrelets/node-hello#readme",
+  "dependencies": {
+    "chalk": "^4.1.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.11"
+  }
+}
